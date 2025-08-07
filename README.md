@@ -1,6 +1,6 @@
 # 👋 Hola, soy David Nino
 
-Desarrollador web frontend & diseñador gráfico con enfoque en **experiencias digitales impactantes**.  
+Desarrollador web full stack & diseñador gráfico con enfoque en **experiencias digitales impactantes**.  
 Me apasiona crear interfaces limpias, animaciones suaves, y sistemas funcionales que conecten diseño con tecnología.
 
 ---
@@ -50,4 +50,4 @@ Estoy abierto a colaboraciones, freelance 🚀
 
 ---
 
-_Gracias por pasarte por aquí 🙌_
+_Gracias por pasarte por aquí_
